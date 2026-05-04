@@ -3,7 +3,7 @@ const registerBtn = document.querySelector('.register-btn'); // to acess registe
 const loginBtn = document.querySelector('.login-btn'); // to access logibbtn
 
 registerBtn.addEventListener('click', () => { // add eventlistner
-    container.classList.add('active');
+    container.classList.add('active'); // to add class
 })
 
 loginBtn.addEventListener('click', () => {
