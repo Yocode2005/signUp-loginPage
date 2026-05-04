@@ -6,6 +6,6 @@ registerBtn.addEventListener('click', () => { // add eventlistner
     container.classList.add('active'); // to add class
 })
 
-loginBtn.addEventListener('click', () => {
+loginBtn.addEventListener('click', () => { // add event listner on liginBtn
     container.classList.remove('active');
 })
