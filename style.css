@@ -9,7 +9,7 @@
     list-style: none;
 }
 
-body{
+body{ // add css for body
     display: flex;
     justify-content: center;
     align-items: center;
