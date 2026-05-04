@@ -7,5 +7,5 @@ registerBtn.addEventListener('click', () => { // add eventlistner
 })
 
 loginBtn.addEventListener('click', () => { // add event listner on liginBtn
-    container.classList.remove('active');
+    container.classList.remove('active'); // add active class
 })
